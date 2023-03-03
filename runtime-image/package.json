@@ -23,7 +23,7 @@
     "dockerode": "^2.5.3",
     "gts": "latest",
     "js-green-licenses": "^0.2.0",
-    "mocha": "^2.4.5",
+    "mocha": "^10.2.0",
     "request": "^2.69.0",
     "source-map-support": "^0.4.15",
     "tar-fs": "^1.16.0",
